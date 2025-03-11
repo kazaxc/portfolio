@@ -31,6 +31,16 @@
 			badgeList: ['Linux', 'Arch', 'DWM', 'Configuration']
 		},
 		{
+			title: 'Moldge Pack Balatro Mod',
+			imageUrl:
+				'https://raw.githubusercontent.com/kazaxc/MoldgePack/refs/heads/main/assets/20250311165754_1.jpg',
+			altText: 'Screenshot of gameplay in the mod',
+			itemUrl: 'https://github.com/kazaxc/MoldgePack',
+			description:
+				'A mod for the game Balatro made up of community submitted jokers implemented into the game by myself. Credits for the art found in the project README.',
+			badgeList: ['Lua', 'Mod', 'Community']
+		},
+		{
 			title: 'LPEngine',
 			imageUrl: 'https://raw.githubusercontent.com/kazaxc/LPEngine/main/Cropped.png',
 			altText: 'Screenshot of example render',
@@ -41,8 +51,7 @@
 		},
 		{
 			title: 'Unity PCG Tool',
-			imageUrl:
-				'https://raw.githubusercontent.com/kazaxc/portfolio/main/static/Capture.PNG',
+			imageUrl: 'https://raw.githubusercontent.com/kazaxc/portfolio/main/static/Capture.PNG',
 			altText: 'Screenshot of tool generating some meshes',
 			itemUrl: 'https://github.com/kazaxc/UnitTest-PR',
 			description:
