@@ -1,9 +1,9 @@
 <div class="navbar bg-base-100 sticky top-0 z-50">
 	<div class="flex-1">
-		<a href="#" class="btn btn-ghost text-xl">Kallum Doughty</a>
+		<a href="#" class="btn btn-ghost text-white text-xl">Kallum Doughty</a>
 	</div>
 	<div class="flex-none">
-		<a href="https://github.com/kazaxc" class="btn btn-ghost">
+		<a href="https://github.com/kazaxc" class="btn text-white btn-ghost">
 			<svg
 				role="img"
 				xmlns="http://www.w3.org/2000/svg"

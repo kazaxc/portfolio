@@ -13,7 +13,7 @@
 				development space working on either the systems that make up game engines or letting my
 				creativity out by making games. Gaming fan in a variety of genres but my most played are
 				FPS, strategy and racing. Massive fan of shows like House M.D. and Doctor Who, some of my
-				favourite movies include Tron: Legacy, The color of Money and the Star Wars franchise.
+				favourite movies include Tron: Legacy, The Color of Money and the Star Wars franchise.
 			</p>
 			<p class="py-6">
 				My core skills include C / C++ / C#, Python, Lua, SvelteKit across both Windows and Linux

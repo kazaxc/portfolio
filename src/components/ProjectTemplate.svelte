@@ -7,7 +7,7 @@
 	export let badgeList = [];
 </script>
 
-<a href={itemUrl} class="block h-160">
+<a href={itemUrl} class="block text-white h-160">
 	<div
 		class="card w-full h-full bg-base-100 shadow-xl
       hover:bg-base-200 hover:shadow-2xl

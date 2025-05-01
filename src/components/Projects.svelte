@@ -70,7 +70,7 @@
 	];
 </script>
 
-<div class="divider text-3xl">My Projects</div>
+<div class="divider text-white text-3xl">My Projects</div>
 <div class="grid grid-cols-3 gap-6 m-8 px-32 justify-items-center">
 	{#each projects as project}
 		<ProjectTemplate
